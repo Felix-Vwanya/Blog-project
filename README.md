@@ -1,2 +1,1 @@
-# Blog-project
-My php laravel blog project
+# Blog_Template
